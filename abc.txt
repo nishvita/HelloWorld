@@ -1,3 +1,1 @@
-C:\Program Files\Java\jdk1.8.0_51
-
-java -jar jenkins-cli.jar -s http://localhost:8080/ safe-restart
+vijay
